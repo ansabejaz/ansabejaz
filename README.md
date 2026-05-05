@@ -24,7 +24,7 @@
 | Enterprise Network Simulation | Cisco Packet Tracer | Multi-device network with VLANs, routing & IP addressing |
 | Packet Analysis Lab | Wireshark | Captured & analyzed traffic to diagnose network faults |
 | Virtual Lab Environment | VMware · VirtualBox | Multi-OS lab for networking and OS configuration testing |
-
+| IoT Home Automation System | IoT Sensors · Wireless Protocols | Smart home solution with sensor configuration and wireless connectivity |
 ---
 
 ## 📜 Certifications
